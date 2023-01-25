@@ -1,0 +1,209 @@
+2023-01-25 22:49:09.300  INFO 30892 --- [main] c.e.s.SpringAdminClientApplication       : Starting SpringAdminClientApplication using Java 11.0.13 on Gopal with PID 30892 (C:\workspace\spring-admin-client\spring-admin-client\target\classes started by Gopal in C:\workspace\spring-admin-client\spring-admin-client)
+2023-01-25 22:49:09.302  INFO 30892 --- [main] c.e.s.SpringAdminClientApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:49:10.113  INFO 30892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-01-25 22:49:10.123  INFO 30892 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-25 22:49:10.124  INFO 30892 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-01-25 22:49:10.242  INFO 30892 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-25 22:49:10.243  INFO 30892 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 904 ms
+2023-01-25 22:49:10.794  INFO 30892 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-01-25 22:49:10.841  INFO 30892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-01-25 22:49:10.853  INFO 30892 --- [main] c.e.s.SpringAdminClientApplication       : Started SpringAdminClientApplication in 2.057 seconds (JVM running for 2.779)
+2023-01-25 22:49:11.112  INFO 30892 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as fa71d4898942
+2023-01-25 22:49:11.193  INFO 30892 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-25 22:49:11.193  INFO 30892 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-25 22:49:11.194  INFO 30892 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-25 22:54:57.276  INFO 3580 --- [main] c.e.s.SpringAdminClientApplication       : Starting SpringAdminClientApplication using Java 11.0.13 on Gopal with PID 3580 (C:\workspace\spring-admin-client\spring-admin-client\target\classes started by Gopal in C:\workspace\spring-admin-client\spring-admin-client)
+2023-01-25 22:54:57.279  INFO 3580 --- [main] c.e.s.SpringAdminClientApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:54:58.045  INFO 3580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-01-25 22:54:58.053  INFO 3580 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-25 22:54:58.054  INFO 3580 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-01-25 22:54:58.136  INFO 3580 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-25 22:54:58.136  INFO 3580 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 828 ms
+2023-01-25 22:54:58.591  INFO 3580 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-25 22:54:58.627  INFO 3580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-01-25 22:54:58.641  INFO 3580 --- [main] c.e.s.SpringAdminClientApplication       : Started SpringAdminClientApplication in 1.675 seconds (JVM running for 2.253)
+2023-01-25 22:54:58.879  INFO 3580 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as fa71d4898942
+2023-01-25 22:54:58.963  INFO 3580 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-25 22:54:58.963  INFO 3580 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-25 22:54:58.964  INFO 3580 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-25 22:58:00.151  INFO 3580 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-01-25 22:58:00.263  INFO 3580 --- [RMI TCP Connection(7)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-01-25 22:58:00.266  INFO 3580 --- [RMI TCP Connection(7)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-25 22:59:32.581  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Starting SpringAdminClientApplication using Java 11.0.13 on Gopal with PID 9080 (C:\workspace\spring-admin-client\spring-admin-client\target\classes started by Gopal in C:\workspace\spring-admin-client\spring-admin-client)
+2023-01-25 22:59:32.581  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:59:32.846  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-01-25 22:59:32.846  INFO 9080 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-25 22:59:32.846  INFO 9080 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-01-25 22:59:32.859  INFO 9080 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-25 22:59:32.859  INFO 9080 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 277 ms
+2023-01-25 22:59:32.967  INFO 9080 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-01-25 22:59:32.969  INFO 9080 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-01-25 22:59:32.978  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-01-25 22:59:32.984  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Started SpringAdminClientApplication in 0.438 seconds (JVM running for 83.517)
+2023-01-25 22:59:32.988  INFO 9080 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   LogFileWebEndpointAutoConfiguration#logFileWebEndpoint matched:
+      - Log File found logging.file.name user-registration.log (LogFileWebEndpointAutoConfiguration.LogFileCondition)
+      - @ConditionalOnMissingBean (types: org.springframework.boot.actuate.logging.LogFileWebEndpoint; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2023-01-25 22:59:33.001  INFO 9080 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-25 22:59:33.003  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-25 22:59:33.004  INFO 9080 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as fa71d4898942
+2023-01-25 22:59:33.004  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-25 22:59:54.598  INFO 9080 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-01-25 22:59:54.723  INFO 9080 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-01-25 22:59:54.724  INFO 9080 --- [Thread-7] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-25 22:59:54.779  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Starting SpringAdminClientApplication using Java 11.0.13 on Gopal with PID 9080 (C:\workspace\spring-admin-client\spring-admin-client\target\classes started by Gopal in C:\workspace\spring-admin-client\spring-admin-client)
+2023-01-25 22:59:54.779  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:59:54.963  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-01-25 22:59:54.964  INFO 9080 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-25 22:59:54.964  INFO 9080 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-01-25 22:59:54.975  INFO 9080 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-25 22:59:54.975  INFO 9080 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 195 ms
+2023-01-25 22:59:55.056  INFO 9080 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-01-25 22:59:55.059  INFO 9080 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-25 22:59:55.067  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-01-25 22:59:55.073  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Started SpringAdminClientApplication in 0.318 seconds (JVM running for 105.606)
+2023-01-25 22:59:55.078  INFO 9080 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   CachesEndpointAutoConfiguration#cachesEndpointWebExtension:
+      Did not match:
+         - @ConditionalOnAvailableEndpoint no 'management.endpoints' property marked it as exposed (OnAvailableEndpointCondition)
+      Matched:
+         - @ConditionalOnBean (types: org.springframework.boot.actuate.cache.CachesEndpoint; SearchStrategy: all) found bean 'cachesEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.cache.CachesEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesReportEndpointAutoConfiguration#configurationPropertiesReportEndpointWebExtension:
+      Did not match:
+         - @ConditionalOnAvailableEndpoint no 'management.endpoints' property marked it as exposed (OnAvailableEndpointCondition)
+      Matched:
+         - @ConditionalOnBean (types: org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpoint; SearchStrategy: all) found bean 'configurationPropertiesReportEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   EnvironmentEndpointAutoConfiguration#environmentEndpointWebExtension:
+      Did not match:
+         - @ConditionalOnAvailableEndpoint no 'management.endpoints' property marked it as exposed (OnAvailableEndpointCondition)
+      Matched:
+         - @ConditionalOnBean (types: org.springframework.boot.actuate.env.EnvironmentEndpoint; SearchStrategy: all) found bean 'environmentEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.env.EnvironmentEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2023-01-25 22:59:55.093  INFO 9080 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-25 22:59:55.094  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-25 22:59:55.095  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-25 22:59:55.097  INFO 9080 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as fa71d4898942
+2023-01-25 23:11:47.920  INFO 9080 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-01-25 23:11:48.034  INFO 9080 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-01-25 23:11:48.037  INFO 9080 --- [Thread-11] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-25 23:11:48.200  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Starting SpringAdminClientApplication using Java 11.0.13 on Gopal with PID 9080 (C:\workspace\spring-admin-client\spring-admin-client\target\classes started by Gopal in C:\workspace\spring-admin-client\spring-admin-client)
+2023-01-25 23:11:48.200  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-25 23:11:48.419  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2023-01-25 23:11:48.420  INFO 9080 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-25 23:11:48.420  INFO 9080 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-01-25 23:11:48.430  INFO 9080 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-25 23:11:48.431  INFO 9080 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 227 ms
+2023-01-25 23:11:48.538  INFO 9080 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-01-25 23:11:48.540  INFO 9080 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-01-25 23:11:48.550  INFO 9080 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2023-01-25 23:11:48.557  INFO 9080 --- [restartedMain] c.e.s.SpringAdminClientApplication       : Started SpringAdminClientApplication in 0.392 seconds (JVM running for 819.09)
+2023-01-25 23:11:48.559  INFO 9080 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   CachesEndpointAutoConfiguration#cachesEndpointWebExtension matched:
+      - @ConditionalOnBean (types: org.springframework.boot.actuate.cache.CachesEndpoint; SearchStrategy: all) found bean 'cachesEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.cache.CachesEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+      - @ConditionalOnAvailableEndpoint marked as exposed by a 'management.endpoints.web.exposure' property (OnAvailableEndpointCondition)
+
+   ConfigurationPropertiesReportEndpointAutoConfiguration#configurationPropertiesReportEndpointWebExtension matched:
+      - @ConditionalOnBean (types: org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpoint; SearchStrategy: all) found bean 'configurationPropertiesReportEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+      - @ConditionalOnAvailableEndpoint marked as exposed by a 'management.endpoints.web.exposure' property (OnAvailableEndpointCondition)
+
+   EnvironmentEndpointAutoConfiguration#environmentEndpointWebExtension matched:
+      - @ConditionalOnBean (types: org.springframework.boot.actuate.env.EnvironmentEndpoint; SearchStrategy: all) found bean 'environmentEndpoint'; @ConditionalOnMissingBean (types: org.springframework.boot.actuate.env.EnvironmentEndpointWebExtension; SearchStrategy: all) did not find any beans (OnBeanCondition)
+      - @ConditionalOnAvailableEndpoint marked as exposed by a 'management.endpoints.web.exposure' property (OnAvailableEndpointCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2023-01-25 23:11:48.611  INFO 9080 --- [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-25 23:11:48.611  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-25 23:11:48.612  INFO 9080 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as fa71d4898942
+2023-01-25 23:11:48.613  INFO 9080 --- [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

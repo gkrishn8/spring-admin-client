@@ -1,0 +1,1 @@
+server:  port: 8085management:  endpoints:    web:      exposure:        include: "*"  endpoint:    health:      show-details: always            spring:  boot:    admin:      client:        url: http://localhost:9090  application:    name: user-registration    logging:  file:    name: user-registration.log    max-history: 20    max-size: 20MB        
